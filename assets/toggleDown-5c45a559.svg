@@ -1,0 +1,20 @@
+<svg width="73" height="63" viewBox="0 0 73 63" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="arrow">
+<g id="Group 3">
+<path id="overlay-fade" d="M73 36.5C73 36.5 56.6584 36.5 36.5 36.5C16.3416 36.5 0 36.5 0 36.5C0 16.3416 16.3416 0 36.5 0C56.6584 0 73 16.3416 73 36.5Z" fill="#0CDDF9" fill-opacity="0.44"/>
+</g>
+<g id="Group 2">
+<circle id="main-circle" cx="36.5" cy="36.5" r="26.5" fill="#109AAD"/>
+</g>
+<g id="Group 1">
+<path id="Arrow" d="M35.4779 43.642C35.7663 43.9304 36.2337 43.9304 36.5221 43.642L41.2209 38.9433C41.5092 38.6549 41.5092 38.1874 41.2209 37.8991C40.9325 37.6108 40.465 37.6108 40.1767 37.8991L36 42.0758L31.8233 37.8991C31.535 37.6108 31.0675 37.6108 30.7791 37.8991C30.4908 38.1874 30.4908 38.6549 30.7791 38.9433L35.4779 43.642ZM35.2617 28V43.12L36.7383 43.12V28L35.2617 28Z" fill="white" fill-opacity="0.85"/>
+</g>
+</g></svg>
+</div>
+<div>
+  <svg width="247" height="177" viewBox="0 0 247 177" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="arrow toggle" filter="url(#filter0_d_8_8)">
+<path d="M105.932 55.3487L122.957 32.3798L137.555 52.9924L135.714 51.4044L123.778 41.1129L111.458 50.9408L105.932 55.3487Z" stroke="black" stroke-width="38" shape-rendering="crispEdges"/>
+<path d="M105.932 55.3487L122.957 32.3798L137.555 52.9924L135.714 51.4044L123.778 41.1129L111.458 50.9408L105.932 55.3487Z" stroke="black" stroke-opacity="0.2" stroke-width="38" shape-rendering="crispEdges"/>
+</g>
+</svg>
